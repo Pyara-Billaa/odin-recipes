@@ -1,5 +1,5 @@
 # Odin Recipes
-## Preview : https://pyara-billaa.github.io/odin-recipes/
+## [Live Site](https://pyara-billaa.github.io/odin-recipes/)
 * This is a basic HTML project from The Odin Project.
 * Used simple HTML :
     * Ordered list
